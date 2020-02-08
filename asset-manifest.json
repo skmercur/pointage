@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/pointage/static/css/main.d1b05096.chunk.css",
-    "main.js": "/pointage/static/js/main.d6e6467b.chunk.js",
-    "main.js.map": "/pointage/static/js/main.d6e6467b.chunk.js.map",
+    "main.js": "/pointage/static/js/main.5aa386c3.chunk.js",
+    "main.js.map": "/pointage/static/js/main.5aa386c3.chunk.js.map",
     "runtime-main.js": "/pointage/static/js/runtime-main.78321572.js",
     "runtime-main.js.map": "/pointage/static/js/runtime-main.78321572.js.map",
     "static/js/2.8af15a1b.chunk.js": "/pointage/static/js/2.8af15a1b.chunk.js",
     "static/js/2.8af15a1b.chunk.js.map": "/pointage/static/js/2.8af15a1b.chunk.js.map",
     "index.html": "/pointage/index.html",
-    "precache-manifest.cf74fd06e537838d0803adc76c67d6ae.js": "/pointage/precache-manifest.cf74fd06e537838d0803adc76c67d6ae.js",
+    "precache-manifest.c75a1f4d30e21886e89a7281366d5db7.js": "/pointage/precache-manifest.c75a1f4d30e21886e89a7281366d5db7.js",
     "service-worker.js": "/pointage/service-worker.js",
     "static/css/main.d1b05096.chunk.css.map": "/pointage/static/css/main.d1b05096.chunk.css.map",
     "static/js/2.8af15a1b.chunk.js.LICENSE.txt": "/pointage/static/js/2.8af15a1b.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.78321572.js",
     "static/js/2.8af15a1b.chunk.js",
     "static/css/main.d1b05096.chunk.css",
-    "static/js/main.d6e6467b.chunk.js"
+    "static/js/main.5aa386c3.chunk.js"
   ]
 }
