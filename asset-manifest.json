@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/pointage/static/css/main.5ecd60fb.chunk.css",
-    "main.js": "/pointage/static/js/main.3fd64222.chunk.js",
-    "main.js.map": "/pointage/static/js/main.3fd64222.chunk.js.map",
+    "main.js": "/pointage/static/js/main.0c68c4fd.chunk.js",
+    "main.js.map": "/pointage/static/js/main.0c68c4fd.chunk.js.map",
     "runtime-main.js": "/pointage/static/js/runtime-main.78321572.js",
     "runtime-main.js.map": "/pointage/static/js/runtime-main.78321572.js.map",
     "static/css/2.090bd404.chunk.css": "/pointage/static/css/2.090bd404.chunk.css",
     "static/js/2.0a0a38fa.chunk.js": "/pointage/static/js/2.0a0a38fa.chunk.js",
     "static/js/2.0a0a38fa.chunk.js.map": "/pointage/static/js/2.0a0a38fa.chunk.js.map",
     "index.html": "/pointage/index.html",
-    "precache-manifest.3f4235e85db37d3079c93df7f1367ce9.js": "/pointage/precache-manifest.3f4235e85db37d3079c93df7f1367ce9.js",
+    "precache-manifest.bf16a5b36ab19c72a3e89ed458f23eb5.js": "/pointage/precache-manifest.bf16a5b36ab19c72a3e89ed458f23eb5.js",
     "service-worker.js": "/pointage/service-worker.js",
     "static/css/2.090bd404.chunk.css.map": "/pointage/static/css/2.090bd404.chunk.css.map",
     "static/css/main.5ecd60fb.chunk.css.map": "/pointage/static/css/main.5ecd60fb.chunk.css.map",
@@ -20,6 +20,6 @@
     "static/css/2.090bd404.chunk.css",
     "static/js/2.0a0a38fa.chunk.js",
     "static/css/main.5ecd60fb.chunk.css",
-    "static/js/main.3fd64222.chunk.js"
+    "static/js/main.0c68c4fd.chunk.js"
   ]
 }
